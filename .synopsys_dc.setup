@@ -6,6 +6,8 @@ set link_library [concat $target_library "*"]
 set search_path [concat $search_path ./src]
 set designer "Puteri Hamari"
 set company "MNSU Mankato."
+
+set source_path "./source/"
 set log_path "./log/"
 set db_path "./db/"
 set netlist_path "./netlist/" 
